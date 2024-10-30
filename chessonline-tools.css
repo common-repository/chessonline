@@ -1,0 +1,189 @@
+/**
+ * FEN editor style
+ */
+
+#co_feneditor {
+	width: 750px;
+	margin-left: 5px;
+}
+
+.co_editorboard {
+	width: 328px;
+	height: 328px;
+	padding: 0;
+	float: left;
+}
+
+.co_square_corner {
+	width: 14px;
+	height: 14px;
+	float: left;
+	padding: 1px;
+	line-height: 12px;
+}
+
+.co_square_col {
+	width: 35px;
+	height: 14px;
+	float: left;
+	padding: 1px;
+	line-height: 12px;
+	text-align: center;
+}
+
+.co_square_rank {
+        width: 14px;
+        height: 35px;
+        float: left;
+        padding: 1px;
+        line-height: 33px;
+        text-align: center;
+}
+.co_square_drop {
+	width: 35px;
+	height: 35px;
+	float: left;
+	padding: 1px;
+}
+
+.co_piece {
+	line-height: 33px;
+        font-size: 28px;
+        text-align: center;
+	width: 100%;
+	cursor: pointer;
+	font-family: "Arial Unicode MS";        /* IE8 + XP */
+}
+
+.co_square_light {
+	background: #FFFFFF;
+}
+
+.co_square_dark {
+	background: #C0C0C0;
+}
+
+.co_square_top {
+	border-top: 1px solid #C0C0C0;
+	padding: 0 1px 1px 1px;
+}
+
+.co_square_bottom {
+        border-bottom: 1px solid #C0C0C0;
+        padding: 1px 1px 0 1px;
+}
+
+.co_square_left {
+        border-left: 1px solid #C0C0C0;
+        padding: 1px 1px 1px 0;
+}
+
+.co_square_right {
+        border-right: 1px solid #C0C0C0;
+        padding: 1px 0 1px 1px;
+}
+
+.co_square_topleft {
+        padding: 0 1px 1px 0 !important;
+}
+
+.co_square_topright {
+        padding: 0 1px 1px 0 !important;
+}
+
+.co_square_bottomleft {
+        padding: 1px 1px 0 0 !important;
+}
+
+.co_square_bottomright {
+        padding: 1px 0 0 1px !important;
+}
+
+.co_repo {
+	width: 78px;
+	float: left;
+	margin-left: 5px;
+}
+
+.co_dragrepo {
+	width: 35px;
+        height: 35px;
+        float: left;
+        padding: 1px;
+        line-height: 33px;
+        font-size: 28px;
+        text-align: center;
+}
+
+.co_piecerepo {
+        line-height: 33px;
+        font-size: 28px;
+        text-align: center;
+        width: 100%;
+	cursor: pointer;
+	font-family: "Arial Unicode MS";        /* IE8 + XP */
+}
+
+.co_fenfields {
+	margin-left: 20px;
+	width: 310px;
+	height: 225px;
+	float: left;
+}
+
+.co_label {
+	clear: both;
+	float:	left;
+	width:	150px;
+	text-align: left;
+	padding-top: 3px;
+	padding-right: 5px;
+	line-height: 18px;
+	height: 18px;
+	vertical-align: middle;
+}
+
+.co_field {
+	float: right;
+	width: 150px;
+	text-align: left;
+} 
+
+.co_fenoutput {
+	width: 400px;
+	margin-left: 10px;
+	float: left;
+}
+
+#co_fen {
+	width: 100%;
+	line-height: 10px;
+	font-size: 10px;
+	margin-bottom: 8px;
+}
+
+.co_box_ok {
+	box-shadow: 0 0 5px 3px #6EC160;
+}
+
+.co_box_error {
+	box-shadow: 0 0 5px 3px #E96E5E;
+}
+
+#co_loadfen {
+	float: left;
+	margin-right: 5px;
+}
+
+#co_makefen {
+        float: left;
+}
+
+#co_initfen {
+	float: right;
+}
+
+#co_resetfen {
+        float: right;
+        margin-left: 5px;
+}

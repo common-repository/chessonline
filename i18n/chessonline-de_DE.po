@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ChessOnline\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-19 00:17+0100\n"
+"PO-Revision-Date: 2012-02-19 00:26+0100\n"
+"Last-Translator: Alexander Mainzer w3EDV <info@w3edv.de>\n"
+"Language-Team: Alexander Mainzer w3EDV <info@w3edv.de>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;co__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../chessonline.php:190
+msgid "Analysis"
+msgstr "Analyse"
+
+#: ../chessonline.php:217
+msgid "Info"
+msgstr "Info"
+
+#: ../chessonline.php:268
+msgid "White"
+msgstr "Weiß"
+
+#: ../chessonline.php:268
+msgid "Black"
+msgstr "Schwarz"
+
+#: ../chessonline.php:269
+msgid "to move"
+msgstr "am Zug"
+
+#: ../chessonline.php:279
+#: ../chessonline.php:283
+#: ../chessonline.php:572
+#: ../chessonline.php:573
+#: ../chessonline.php:574
+#: ../chessonline.php:575
+msgid "Castling"
+msgstr "Rochade"
+
+#: ../chessonline.php:279
+#: ../chessonline.php:571
+#: ../chessonline.php:572
+#: ../chessonline.php:573
+msgid "white"
+msgstr "weiß"
+
+#: ../chessonline.php:282
+#: ../chessonline.php:286
+#: ../chessonline.php:572
+#: ../chessonline.php:573
+#: ../chessonline.php:574
+#: ../chessonline.php:575
+msgid "not allowed"
+msgstr "nicht zulässig"
+
+#: ../chessonline.php:283
+#: ../chessonline.php:571
+#: ../chessonline.php:574
+#: ../chessonline.php:575
+msgid "black"
+msgstr "schwarz"
+
+#: ../chessonline.php:291
+msgid "En passant target square"
+msgstr "En passant Zielfeld"
+
+#: ../chessonline.php:291
+#: ../chessonline.php:576
+msgid "none"
+msgstr "keines"
+
+#: ../chessonline.php:358
+msgid "settings"
+msgstr "Einstellungen"
+
+#: ../chessonline.php:363
+msgid "Chessboard size"
+msgstr "Schachbrett Größe"
+
+#: ../chessonline.php:364
+msgid "px"
+msgstr "px"
+
+#: ../chessonline.php:367
+msgid "Chessboard alignment"
+msgstr "Schachbrett Positionierung"
+
+#: ../chessonline.php:372
+msgid "center"
+msgstr "zentriert"
+
+#: ../chessonline.php:373
+msgid "align left"
+msgstr "linksbündig"
+
+#: ../chessonline.php:374
+msgid "align right"
+msgstr "rechtsbündig"
+
+#: ../chessonline.php:375
+msgid "float left"
+msgstr "links Umfluss"
+
+#: ../chessonline.php:376
+msgid "float right"
+msgstr "rechts Umfluss"
+
+#: ../chessonline.php:380
+msgid "Light square color"
+msgstr "Farbe helles Feld"
+
+#: ../chessonline.php:381
+#: ../chessonline.php:385
+msgid "HEX code or standard CSS color name"
+msgstr "HEX-Code oder standard CSS Farbname"
+
+#: ../chessonline.php:384
+msgid "Dark square color"
+msgstr "Farbe dunkles Feld"
+
+#: ../chessonline.php:388
+msgid "Display info text label"
+msgstr "Info-Text-Label anzeigen"
+
+#: ../chessonline.php:390
+msgid "yes"
+msgstr "ja"
+
+#: ../chessonline.php:391
+msgid "no"
+msgstr "nein"
+
+#: ../chessonline.php:395
+msgid "Link URL"
+msgstr "Link URL"
+
+#: ../chessonline.php:396
+msgid "Use {FEN} as placeholder to pass the FEN"
+msgstr "Verwenden Sie {FEN} als Platzhalter, um die FEN zu übergeben"
+
+#: ../chessonline.php:399
+msgid "Link text"
+msgstr "Linktext"
+
+#: ../chessonline.php:403
+msgid "Link target"
+msgstr "Linkziel"
+
+#: ../chessonline.php:408
+msgid "overlay"
+msgstr "Overlay-Fenster"
+
+#: ../chessonline.php:409
+msgid "new window"
+msgstr "Neues Fenster"
+
+#: ../chessonline.php:410
+msgid "same window"
+msgstr "Gleiche Fenster"
+
+#: ../chessonline.php:415
+msgid "Save Changes"
+msgstr "Speichern"
+
+#: ../chessonline.php:432
+#: ../chessonline.php:460
+msgid "ChessOnline FEN Editor"
+msgstr "ChessOnline FEN Editor"
+
+#: ../chessonline.php:499
+msgid "Add FEN"
+msgstr "FEN Hinzufügen"
+
+#: ../chessonline.php:519
+msgid "To use this tool, you must enable JavaScript."
+msgstr "Um dieses Tool zu verwenden, muss JavaScript aktiviert sein."
+
+#: ../chessonline.php:571
+msgid "Active color"
+msgstr "Anziehender Spieler"
+
+#: ../chessonline.php:572
+#: ../chessonline.php:573
+#: ../chessonline.php:574
+#: ../chessonline.php:575
+msgid "allowed"
+msgstr "zulässig"
+
+#: ../chessonline.php:576
+msgid "EP target square"
+msgstr "En passant Zielfeld"
+
+#: ../chessonline.php:581
+msgid "Halfmove clock"
+msgstr "Halbzugzähler"
+
+#: ../chessonline.php:582
+msgid "Fullmove number"
+msgstr "Zugnummer"
+
+#: ../chessonline.php:588
+msgid "Your FEN"
+msgstr "Ihre FEN"
+
+#: ../chessonline.php:590
+msgid "FEN to board"
+msgstr "FEN ⇒ Brett"
+
+#: ../chessonline.php:591
+msgid "Board to FEN"
+msgstr "Brett ⇒ FEN"
+
+#: ../chessonline.php:592
+msgid "Clear"
+msgstr "Leeren"
+
+#: ../chessonline.php:593
+msgid "Starting position"
+msgstr "Grundstellung"
+
